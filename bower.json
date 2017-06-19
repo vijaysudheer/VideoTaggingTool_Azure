@@ -1,0 +1,17 @@
+{
+  "name": "VideoTaggingTool",
+  "description": "Tool for tagging videos frame by frame",
+  "main": "",
+  "authors": [
+    "vijay"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CatalystCode/VideoTaggingTool",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
